@@ -12,6 +12,8 @@
 		FB5B95401E4A9D4700154552 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB5B953E1E4A9D4700154552 /* Main.storyboard */; };
 		FB5B95421E4A9D4700154552 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB5B95411E4A9D4700154552 /* Assets.xcassets */; };
 		FB5B95451E4A9D4700154552 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB5B95431E4A9D4700154552 /* LaunchScreen.storyboard */; };
+		FB5B954D1E4AA1C500154552 /* RegresarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5B954C1E4AA1C500154552 /* RegresarViewController.swift */; };
+		FB5B954F1E4AA6D400154552 /* ModalyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5B954E1E4AA6D400154552 /* ModalyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FB5B95411E4A9D4700154552 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB5B95441E4A9D4700154552 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB5B95461E4A9D4700154552 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB5B954C1E4AA1C500154552 /* RegresarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegresarViewController.swift; sourceTree = "<group>"; };
+		FB5B954E1E4AA6D400154552 /* ModalyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				FB5B95411E4A9D4700154552 /* Assets.xcassets */,
 				FB5B95431E4A9D4700154552 /* LaunchScreen.storyboard */,
 				FB5B95461E4A9D4700154552 /* Info.plist */,
+				FB5B954C1E4AA1C500154552 /* RegresarViewController.swift */,
+				FB5B954E1E4AA6D400154552 /* ModalyViewController.swift */,
 			);
 			path = Transciones_Clase06;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				FB5B953D1E4A9D4700154552 /* ViewController.swift in Sources */,
 				FB5B953B1E4A9D4700154552 /* AppDelegate.swift in Sources */,
+				FB5B954F1E4AA6D400154552 /* ModalyViewController.swift in Sources */,
+				FB5B954D1E4AA1C500154552 /* RegresarViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
